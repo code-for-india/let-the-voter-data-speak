@@ -1,0 +1,2 @@
+SELECT EPICNo,count(EPICNo) as cnt FROM Electroal_kar GROUP BY EPICNo HAVING cnt > 1
+

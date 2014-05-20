@@ -1,0 +1,6 @@
+<open file 'pdftotext AC0010002.pdf', mode 'r' at 0x246e540>
+<open file 'pdftotext AC0010003.pdf', mode 'r' at 0x246e540>
+<open file 'pdftotext AC0010001.pdf', mode 'r' at 0x246e540>
+<open file 'pdftotext ./pdf/AC0010002.pdf', mode 'r' at 0x19c5540>
+<open file 'pdftotext ./pdf/AC0010003.pdf', mode 'r' at 0x19c5540>
+<open file 'pdftotext ./pdf/AC0010001.pdf', mode 'r' at 0x19c5540>
